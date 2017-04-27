@@ -1,0 +1,88 @@
+.logo{
+          width: 60px;
+          height: 60px;        
+        }
+        .nav{
+          text-align:right;
+        }
+        .texto{
+            top: 200px;
+            width: 100%;
+            color: black;
+            text-align: center;
+            position: absolute;
+        }
+        .textocentral{
+            text-align: center;
+        }
+        .imgpersonas{
+            width: 60px;
+            height: 6px;
+        }
+        .inicio{
+            top: 20px;
+            left: 0;
+            width: 100%;
+            color: white;
+            position: absolute;
+        }
+        .navbar-brand{
+            width: 150px;
+            height: 70px;         
+        }
+        .textobajo{
+            text-align: center;
+            background-color: lightgrey;
+            border: black, 5px,solid;          
+        }
+        .casifinal{
+            text-align: center;
+        }
+        .footer{
+            background-color: pink;
+            color:white;
+            text-align: center;
+        }
+        /*.imagengrande img{
+
+            max-width: 20px;
+            max-height: 20px;
+        }*/
+
+        .personas{
+           text-align: center                      
+        }
+        .imagen{
+            border-radius: 150px;
+            width: 300px;
+            height: 300px;
+            display: block;
+            margin: auto;
+        }
+        .textopalabra{
+            align-content: center;
+        }
+        .imagenfondo{      
+             width:100%;
+             height: 80%;
+        }
+
+        body {
+             font-size: 16px; 
+            }
+
+        .texto { 
+            font-size: 1em; 
+            }
+ 
+        @media (max-width: 320px) {
+         .texto { font-size: 2em;
+          }
+            }
+
+         .centro{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            }
+      
